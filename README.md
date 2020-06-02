@@ -1,4 +1,4 @@
-# bookers2-3
+# bookers2-4
 ## DMM WEBCAMP 2ヶ月目応用課題
 
 ### 課題4 Bookers2にフォロー・フォロワー機能を追加しましょう
